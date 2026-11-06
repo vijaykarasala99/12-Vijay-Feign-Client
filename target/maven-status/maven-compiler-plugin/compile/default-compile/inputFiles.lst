@@ -1,0 +1,13 @@
+C:\Users\vijay\Downloads\feign-enterprise-demo\12-Vijay-Feign-Enterprise-API\src\main\java\com\vijaystack\feign\client\UserFeignClient.java
+C:\Users\vijay\Downloads\feign-enterprise-demo\12-Vijay-Feign-Enterprise-API\src\main\java\com\vijaystack\feign\config\CircuitBreakerConfiguration.java
+C:\Users\vijay\Downloads\feign-enterprise-demo\12-Vijay-Feign-Enterprise-API\src\main\java\com\vijaystack\feign\config\FeignClientConfiguration.java
+C:\Users\vijay\Downloads\feign-enterprise-demo\12-Vijay-Feign-Enterprise-API\src\main\java\com\vijaystack\feign\controller\UserConsumerController.java
+C:\Users\vijay\Downloads\feign-enterprise-demo\12-Vijay-Feign-Enterprise-API\src\main\java\com\vijaystack\feign\dto\UserRequest.java
+C:\Users\vijay\Downloads\feign-enterprise-demo\12-Vijay-Feign-Enterprise-API\src\main\java\com\vijaystack\feign\dto\UserResponse.java
+C:\Users\vijay\Downloads\feign-enterprise-demo\12-Vijay-Feign-Enterprise-API\src\main\java\com\vijaystack\feign\exception\CustomErrorDecoder.java
+C:\Users\vijay\Downloads\feign-enterprise-demo\12-Vijay-Feign-Enterprise-API\src\main\java\com\vijaystack\feign\exception\DownstreamResourceNotFoundException.java
+C:\Users\vijay\Downloads\feign-enterprise-demo\12-Vijay-Feign-Enterprise-API\src\main\java\com\vijaystack\feign\exception\DownstreamServiceException.java
+C:\Users\vijay\Downloads\feign-enterprise-demo\12-Vijay-Feign-Enterprise-API\src\main\java\com\vijaystack\feign\exception\GlobalExceptionHandler.java
+C:\Users\vijay\Downloads\feign-enterprise-demo\12-Vijay-Feign-Enterprise-API\src\main\java\com\vijaystack\feign\fallback\UserFeignClientFallbackFactory.java
+C:\Users\vijay\Downloads\feign-enterprise-demo\12-Vijay-Feign-Enterprise-API\src\main\java\com\vijaystack\feign\FeignClientDemoApplication.java
+C:\Users\vijay\Downloads\feign-enterprise-demo\12-Vijay-Feign-Enterprise-API\src\main\java\com\vijaystack\feign\service\UserConsumerService.java

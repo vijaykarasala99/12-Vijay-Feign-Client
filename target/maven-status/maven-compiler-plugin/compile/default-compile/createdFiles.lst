@@ -1,0 +1,14 @@
+com\vijaystack\feign\client\UserFeignClient.class
+com\vijaystack\feign\dto\UserRequest.class
+com\vijaystack\feign\controller\UserConsumerController.class
+com\vijaystack\feign\exception\CustomErrorDecoder.class
+com\vijaystack\feign\fallback\UserFeignClientFallbackFactory.class
+com\vijaystack\feign\config\FeignClientConfiguration.class
+com\vijaystack\feign\FeignClientDemoApplication.class
+com\vijaystack\feign\service\UserConsumerService.class
+com\vijaystack\feign\dto\UserResponse.class
+com\vijaystack\feign\exception\DownstreamServiceException.class
+com\vijaystack\feign\config\CircuitBreakerConfiguration.class
+com\vijaystack\feign\exception\DownstreamResourceNotFoundException.class
+com\vijaystack\feign\exception\GlobalExceptionHandler.class
+com\vijaystack\feign\fallback\UserFeignClientFallbackFactory$1.class
